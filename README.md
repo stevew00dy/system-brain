@@ -2,7 +2,7 @@
 
 Public marketing site for the managed AI service: one memory layer, connected systems, custom dashboards, and automation.
 
-**Live site:** https://stevew00dy.github.io/system-brain/
+**Live site:** https://undisputednoobs.com/system-brain/ (also https://stevew00dy.github.io/system-brain/)
 
 ## Local preview
 
